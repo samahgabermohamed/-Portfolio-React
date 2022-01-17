@@ -1,0 +1,9 @@
+
+.progress{
+    height: 5vh;
+}
+
+.list-group-item {
+color: white !important;
+    background-color: transparent !important;
+}

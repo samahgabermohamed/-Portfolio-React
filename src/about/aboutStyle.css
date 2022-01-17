@@ -1,0 +1,6 @@
+.about-info{
+    display: flex;
+    flex-direction: column;
+    align-Items: flex-start;
+    text-Align: left;
+}
