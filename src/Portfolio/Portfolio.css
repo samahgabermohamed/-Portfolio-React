@@ -5,3 +5,11 @@
     justify-content: center;
     align-content: center;
 }
+.card-body{
+    height: 25vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
