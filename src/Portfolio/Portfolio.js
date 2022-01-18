@@ -10,13 +10,12 @@ class Portfolio extends React.Component {
 
     render() {
         let cards = [
-            { cardTitle: "python", color: "#F4DFBA" },
-            { cardTitle: "Web development", color: "#FFFDA2" },
-            { cardTitle: "mobile application", color: "#F3C892" },
-            { cardTitle: "software", color: "#E7FBBE" },
-            { cardTitle: "testing", color: "#FFF1BD" },
-            { cardTitle: "network", color: "#FFEFEF" },
-
+            { cardTitle: "python", color: "#e9ecef" },
+            { cardTitle: "Web development", color: "#6c757d" },
+            { cardTitle: "UI/UX Design", color: "#e9ecef" },
+            { cardTitle: "software", color: "#6c757d" },
+            { cardTitle: "testing", color: "#e9ecef" },
+            { cardTitle: "network", color: "#6c757d" },
         ];
         console.log("RENDER ABOUTUS");
         return (
