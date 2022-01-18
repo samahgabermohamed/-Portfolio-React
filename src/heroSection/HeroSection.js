@@ -18,7 +18,7 @@ class HeroSection extends React.Component {
                             alt="Card image"
                         ></img>
                         <div className="card-img-overlay text-center col-3 ms-5 ">
-                            <h1 className="card-title  ">Card title</h1>
+                            <h1 className="card-title  ">Samah Gaber</h1>
                             <p className="card-text ">
                                 full stack developer
                             </p>
